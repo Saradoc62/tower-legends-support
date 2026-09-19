@@ -2,94 +2,57 @@
 
 **Last updated: September 19, 2026**
 
-This Privacy Policy explains how **Tower Legends** collects, uses, and protects information when you use the game and related services.
+This Privacy Policy explains how **Tower Legends** handles information when you use the game.
 
 Tower Legends is developed and published by **Cyril Cardon** ("we", "us", or "our").
 
 ## Information we collect
 
-### iOS app
+Tower Legends does not collect, transmit, or sell personal information. The game does not use analytics, advertising, online accounts, cloud saves, or third-party services to track gameplay.
 
-The iOS version of Tower Legends is designed to work without a player account:
+### Local game data
 
-- Game progress and save slots are stored locally on your device.
-- The iOS version does not use Firebase Authentication or cloud save synchronization.
-- We do not ask you to provide your name, email address, or other identifying information to play offline.
-
-The app may collect technical and diagnostic information through Firebase Analytics and Firebase Crashlytics, including:
-
-- App launches, sessions, and general gameplay events;
-- Device and app information, such as operating system version, app version, and device model;
-- Crash reports, error information, and performance data.
-
-This information is used in an aggregated or pseudonymous form to understand how the app is used, diagnose technical problems, improve performance, and maintain the game.
-
-### Other supported platforms
-
-Depending on the platform and version, Tower Legends may offer optional account features. If you choose to create or use an account, we may process:
-
-- Your email address or account identifier;
-- Your player name;
-- Game progress, achievements, language preference, and gameplay statistics;
-- Password-reset or recovery information that you choose to provide.
-
-These features may use Firebase Authentication, Cloud Firestore, and related Firebase services. They are not required for the offline iOS experience described above.
+- Game progress, settings, and multiple save slots are stored locally on your device.
+- On iOS, local storage is managed through the app's local storage system, including Cordova where applicable.
+- On Steam, local storage is managed through the app's local storage system, including Tauri where applicable.
+- Local save data is not synchronized to our servers or shared with us.
 
 ## How we use information
 
-We use information to:
+Because Tower Legends is fully local, we do not use or process gameplay information for:
 
-- Provide and operate Tower Legends;
-- Store and restore account-based progress where that feature is available;
-- Display leaderboards when you choose to use them;
-- Respond to support requests;
-- Monitor stability, diagnose crashes, and improve the game;
-- Detect abuse, fraud, or attempts to compromise the service;
-- Comply with applicable legal obligations.
+- Analytics or gameplay tracking;
+- Cloud accounts, cloud saves, or online leaderboards;
+- Targeted advertising;
+- Crash reporting or remote diagnostics.
 
-We do not sell personal information. We do not use personal information for targeted advertising in Tower Legends.
+If you contact us for support, we use the information you provide only to respond to your request and handle the support matter.
 
 ## Service providers
 
-We use third-party service providers to operate parts of the game, including Google Firebase services such as Firebase Analytics, Firebase Crashlytics, Firebase Authentication, and Cloud Firestore where applicable.
-
-These providers may process information on our behalf and according to their own privacy policies and terms. Firebase's privacy information is available at:
-
-<https://firebase.google.com/support/privacy>
-
-The game may also use Apple platform services when required to distribute or run the app. Apple's privacy policy is available at:
+The game does not use third-party analytics, cloud storage, or account providers. Apple and Steam may process information as part of their own platform, distribution, payment, or account services. Their privacy policies are available at:
 
 <https://www.apple.com/legal/privacy/>
 
+<https://store.steampowered.com/privacy_agreement/>
+
 ## Data retention
 
-Local iOS save data remains on your device until you delete it, delete the app, or use an in-game deletion feature.
-
-For optional account features on other platforms, we retain account and game data for as long as needed to provide the service, comply with legal obligations, resolve disputes, and enforce agreements. Diagnostic and analytics data may be retained according to the policies and settings of the relevant service providers.
+Local save data remains on your device until you delete it, delete the app, remove the local game data, or use an in-game deletion feature. We do not retain copies of local save data on our systems.
 
 ## Your choices and rights
 
 You may:
 
-- Play the iOS version without creating an account;
-- Delete local save data using the game's available controls or by deleting the app;
-- Decline to provide optional recovery information;
-- Request access to, correction of, or deletion of personal information associated with an optional account, subject to applicable law;
+- Play Tower Legends without creating an account;
+- Delete local save data using the game's available controls, by removing local game data, or by deleting the app;
 - Ask questions about how your information is handled.
 
-To make a privacy request, contact us using the address below. We may need to verify your identity before completing a request.
-
-## Children's privacy
-
-Tower Legends is not directed specifically at children under 13. We do not knowingly collect personal information from children under 13. If you believe that a child has provided us with personal information, please contact us so that we can investigate and delete it where appropriate.
-
-## International transfers
-
-Our service providers may process information in countries other than the country where you live. Where required, appropriate safeguards are used for these transfers.
+To make a privacy request, contact us using the address below.
 
 ## Security
 
-We use reasonable technical and organizational measures to protect information. However, no electronic storage or transmission method is completely secure.
+Local save data is protected by the security controls of your device and operating system. However, no electronic storage method is completely secure.
 
 ## Changes to this policy
 
@@ -99,7 +62,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 For privacy questions or requests, contact:
 
-**Cyril Cardon**  
+**Cyril Cardon**
 **Email:** contact.towerlegends@gmail.com
 
 For general support, please use the support information published with Tower Legends on the App Store.
