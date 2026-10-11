@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated: September 19, 2026**
+**Last updated: October 11, 2026**
 
 This Privacy Policy explains how **Tower Legends** handles information when you use the game.
 
-Tower Legends is developed and published by **Cyril Cardon** ("we", "us", or "our").
+Tower Legends is developed and published by **Saradoc Games** ("we", "us", or "our").
 
 ## Information we collect
 
@@ -14,6 +14,7 @@ Tower Legends does not collect, transmit, or sell personal information. The game
 
 - Game progress, settings, and multiple save slots are stored locally on your device.
 - On iOS, local storage is managed through the app's local storage system, including Cordova where applicable.
+- On Android, local storage is managed through the app's local storage system.
 - On Steam, local storage is managed through the app's local storage system, including Tauri where applicable.
 - Local save data is not synchronized to our servers or shared with us.
 
@@ -30,9 +31,11 @@ If you contact us for support, we use the information you provide only to respon
 
 ## Service providers
 
-The game does not use third-party analytics, cloud storage, or account providers. Apple and Steam may process information as part of their own platform, distribution, payment, or account services. Their privacy policies are available at:
+The game does not use third-party analytics, cloud storage, or account providers. Apple, Google Play, and Steam may process information as part of their own platform, distribution, payment, or account services. Their privacy policies are available at:
 
 <https://www.apple.com/legal/privacy/>
+
+<https://policies.google.com/privacy>
 
 <https://store.steampowered.com/privacy_agreement/>
 
@@ -62,7 +65,7 @@ We may update this Privacy Policy from time to time. The updated version will be
 
 For privacy questions or requests, contact:
 
-**Cyril Cardon**
-**Email:** contact.towerlegends@gmail.com
+**Saradoc Games**
+**Email:** saradocgames@gmail.com
 
-For general support, please use the support information published with Tower Legends on the App Store.
+For general support, please use the support information published with Tower Legends on Google Play or the App Store.
